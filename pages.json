@@ -1,5 +1,6 @@
 {
   "data": [
+    
     {
       "type": "api::page.page",
       "id": 1,
@@ -61,11 +62,11 @@
               },
               {
                 "title": "Our Vision",
-                "content": "is to be the leading platform that **<span style='color:#071952'>empowers individuals, communities,</span>** and **<span style='color:#071952'>organizations</span>** with the tools and knowledge needed to discern truth from falsehood. We believe in creating a more **<span style='color:#071952'>reliable</span>** and **<span style='color:#071952'>connected digital landscape</span>** where every user can confidently navigate the sea of intormation without being misled or manipulated"
+                "content": "is to be the leading platform that **<span style='color:#071952'>empowers individuals, communities,</span>** and **<span style='color:#071952'>organizations</span>** with the tools and knowledge needed to discern truth from falsehood. We believe in creating a more **<span style='color:#071952'>reliable</span>** and **<span style='color:#071952'>connected digital landscape</span>** where every user can confidently navigate the sea of intormation without being misled or manipulated."
               },
               {
                 "title": "Our Solution",
-                "content": "will provide cutting-edge technology for **<span style='color:#071952'>real-time fact-checking, content verification,</span>** a collaborative approach to **<span style='color:#071952'>identitying</span>** and **<span style='color:#071952'>countering disInformation</span>** and **<span style='color:#071952'>forensic analysis</span>** to expose the sources of disinformation. We aim to foster **<span style='color:#071952'>critical thinking, media literacy,</span>** and an **<span style='color:#071952'>ecosystem of trust.</span>**"
+                "content": "will provide cutting-edge technology for **<span style='color:#071952'>real-time fact-checking, content verification,</span>** a collaborative approach to **<span style='color:#071952'>identifying</span>** and **<span style='color:#071952'>countering disInformation</span>** and **<span style='color:#071952'>forensic analysis</span>** to expose the sources of disinformation. We aim to foster **<span style='color:#071952'>critical thinking, media literacy,</span>** and an **<span style='color:#071952'>ecosystem of trust.</span>**"
               }
             ]
           },
@@ -92,7 +93,7 @@
     },
     {
       "type": "api::page.page",
-      "id": 1,
+      "id": 2,
       "attributes": {
         "pageTitle": "Product Vision",
         "pageSubtitle": null,
@@ -228,7 +229,97 @@
     },
     {
       "type": "api::page.page",
-      "id": 2,
+      "id": 3,
+      "attributes": {
+        "pageTitle": null,
+        "pageSubtitle": null,
+        "pageRoute": "/why-ffp",
+        "footer": {
+          "socialMedia": [
+            {
+              "displayName": "twitter",
+              "url": "https://twitter.com/factfinderspro",
+              "type": "twitter"
+            },
+            {
+              "displayName": "instagram",
+              "url": "https://www.instagram.com/factfinderspro/",
+              "type": "instagram"
+            },
+            {
+              "displayName": "linkedIn",
+              "url": "https://www.linkedin.com/company/fact-finders-pro",
+              "type": "linkedIn"
+            }
+          ],
+          "links": [
+            {
+              "displayName": "Email",
+              "url": "mailto:FactFindersPro@gmail.com"
+            },
+            {
+              "displayName": "Privacy",
+              "url": "/privacy-policy"
+            }
+          ]
+        },
+        "content": [
+          {
+            "contentType": "hero",
+            "title": "WHY FFP WILL HAVE ITS OWN CONTENT THAT NEEDS TO BE FILLED IN",
+            "subTitle": null,
+            "content": "",
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": "",
+            "buttonLinkUrl1": "",
+            "youTubeVideoId": "",
+            "socialMedia": []
+          },
+          {
+            "contentType": "",
+            "socialMedia": [],
+            "listContent": [
+              {
+                "title": "",
+                "content": ""
+              },
+              {
+                "title": "",
+                "content": ""
+              },
+              {
+                "title": "",
+                "content": ""
+              }
+            ]
+          },
+          {
+            "contentType": "cards",
+            "socialMedia": [],
+            "cardContents": [
+              {
+                "title": "",
+                "content": "",
+                "buttonName1": "",
+                "buttonLinkUrl1": ""
+              },
+              {
+                "title": "",
+                "content": "",
+                "buttonName1": "",
+                "buttonLinkUrl1": ""
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "api::page.page",
+      "id": 4,
       "attributes": {
         "pageTitle": "About Us",
         "pageSubtitle": null,
@@ -309,22 +400,22 @@
             "cardContents": [
               {
                 "title": null,
-                "content": "Be at the forefront of a critical global issue.",
+                "content": "Be at the <b>forefront</b> of a critical global issue.",
                 "imageUrl1": "wj-1.png"
               },
               {
                 "title": null,
-                "content": "Work with a talented, dedicated team of experts in technology and disinformation.",
+                "content": "Work with a <b>talented, dedicated team</b> of experts in technology and disinformation.",
                 "imageUrl1": "wj-2.png"
               },
               {
                 "title": null,
-                "content": "Drive meaningful change and make a positive impact on society.",
+                "content": "Drive <b>meaningful change</b> and make a positive impact on society.",
                 "imageUrl1": "wj-3.png"
               },
               {
                 "title": null,
-                "content": "Contribute to innovative solutions that challenge the status quo.",
+                "content": "Contribute to <b>innovative solutions</b> that challenge the status quo.",
                 "imageUrl1": "wj-4.png"
               }
             ]
@@ -384,7 +475,7 @@
     },
     {
       "type": "api::page.page",
-      "id": 3,
+      "id": 5,
       "attributes": {
         "pageTitle": "Crowd Funding",
         "pageSubtitle": null,
@@ -429,7 +520,7 @@
             "imageUrl1": null,
             "imageUrl2": null,
             "imageUrl3": null,
-            "buttonName1": "DONATE US",
+            "buttonName2": "DONATE US",
             "buttonLinkUrl1": "https://www.gofundme.com/f/join-us-in-the-fight-against-disinformation?utm_campaign=p_cp+share-sheet&utm_medium=referral&utm_source=widget",
             "youTubeVideoId": "",
             "socialMedia": [],
@@ -462,10 +553,10 @@
           },
           {
             "contentType": "content-only",
-            "title": null,
+            "title": "How are we planning to utilize the fund?",
             "subTitle": null,
             "content": "<img src='/images/crowfunding-graph.png' alt='crowfunding graph' />",
-            "subContent1": null,
+            "subContent1": "image here",
             "backgroundImageUrl": null,
             "imageUrl1": null,
             "imageUrl2": null,
@@ -537,7 +628,7 @@
     },
     {
       "type": "api::page.page",
-      "id": 4,
+      "id": 6,
       "attributes": {
         "pageTitle": "Privacy Policy",
         "pageSubtitle": null,
