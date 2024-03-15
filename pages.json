@@ -42,7 +42,7 @@
             "contentType": "hero",
             "title": "Join us in the fight against disinformation today.",
             "subTitle": null,
-            "content": "Your contribution, no matter the size, can make a significant difference in the battle against disinformation. Thank you for your support!",
+            "content": "Your contribution, no matter the size, can make a significant difference\nin the battle against disinformation. Thank you for your support!",
             "backgroundImageUrl": null,
             "imageUrl1": null,
             "imageUrl2": null,
@@ -62,11 +62,11 @@
               },
               {
                 "title": "Our Vision",
-                "content": "is to be the leading platform that **<span style='color:#071952'>empowers individuals, communities,</span>** and **<span style='color:#071952'>organizations</span>** with the tools and knowledge needed to discern truth from falsehood. We believe in creating a more **<span style='color:#071952'>reliable</span>** and **<span style='color:#071952'>connected digital landscape</span>** where every user can confidently navigate the sea of intormation without being misled or manipulated."
+                "content": "is to be the leading platform that **<span style='color:#071952'>empowers individuals, communities,</span>** and **<span style='color:#071952'>organizations</span>** with the tools and knowledge needed to discern truth from falsehood. We believe in creating a more **<span style='color:#071952'>reliable</span>** and **<span style='color:#071952'>connected digital landscape</span>** where every user can confidently navigate the sea of intormation without being misled or manipulated"
               },
               {
                 "title": "Our Solution",
-                "content": "will provide cutting-edge technology for **<span style='color:#071952'>real-time fact-checking, content verification,</span>** a collaborative approach to **<span style='color:#071952'>identifying</span>** and **<span style='color:#071952'>countering disInformation</span>** and **<span style='color:#071952'>forensic analysis</span>** to expose the sources of disinformation. We aim to foster **<span style='color:#071952'>critical thinking, media literacy,</span>** and an **<span style='color:#071952'>ecosystem of trust.</span>**"
+                "content": "will provide cutting-edge technology for **<span style='color:#071952'>real-time fact-checking, content verification,</span>** a collaborative approach to **<span style='color:#071952'>identitying</span>** and **<span style='color:#071952'>countering disInformation</span>** and **<span style='color:#071952'>forensic analysis</span>** to expose the sources of disinformation. We aim to foster **<span style='color:#071952'>critical thinking, media literacy,</span>** and an **<span style='color:#071952'>ecosystem of trust.</span>**"
               }
             ]
           },
@@ -132,7 +132,7 @@
             "contentType": "content-only",
             "title": "Product Vision",
             "subTitle": null,
-            "content": "We envisions a world where information is **trustworthy, transparent**, and **empowering** for all.",
+            "content": "We envision a world where information is **trustworthy, transparent**, and **empowering** for all.",
             "subContent1": "Our **solution** will provide **cutting-edge technology for real-time fact-checking, content verification**, a collaborative approach to identifying and countering disinformation and forensic analysis to expose the sources of disinformation",
             "backgroundImageUrl": null,
             "imageUrl1": "product-vision.png",
