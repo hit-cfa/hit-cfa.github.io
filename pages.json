@@ -16,6 +16,11 @@
               "type": "twitter"
             },
             {
+              "displayName": "facebook",
+              "url": "https://www.facebook.com/factfinderspro",
+              "type": "facebook"
+            },
+            {
               "displayName": "instagram",
               "url": "https://www.instagram.com/factfinderspro/",
               "type": "instagram"
@@ -24,12 +29,27 @@
               "displayName": "linkedIn",
               "url": "https://www.linkedin.com/company/fact-finders-pro",
               "type": "linkedIn"
+            },
+            {
+              "displayName": "youtube",
+              "url": "https://www.youtube.com/@FactFindersPro",
+              "type": "youtube"
+            },
+            {
+              "displayName": "tiktok",
+              "url": "https://www.tiktok.com/@factfinderspro",
+              "type": "tiktok"
+            },
+            {
+              "displayName": "reddit",
+              "url": "https://www.reddit.com/user/FactFindersPro",
+              "type": "reddit"
             }
           ],
           "links": [
             {
               "displayName": "Email",
-              "url": "mailto:FactFindersPro@gmail.com"
+              "url": "mailto:info@FactFindersPro.com"
             },
             {
               "displayName": "Privacy",
@@ -106,6 +126,11 @@
               "type": "twitter"
             },
             {
+              "displayName": "facebook",
+              "url": "https://www.facebook.com/factfinderspro",
+              "type": "facebook"
+            },
+            {
               "displayName": "instagram",
               "url": "https://www.instagram.com/factfinderspro/",
               "type": "instagram"
@@ -114,12 +139,27 @@
               "displayName": "linkedIn",
               "url": "https://www.linkedin.com/company/fact-finders-pro",
               "type": "linkedIn"
+            },
+            {
+              "displayName": "youtube",
+              "url": "https://www.youtube.com/@FactFindersPro",
+              "type": "youtube"
+            },
+            {
+              "displayName": "tiktok",
+              "url": "https://www.tiktok.com/@factfinderspro",
+              "type": "tiktok"
+            },
+            {
+              "displayName": "reddit",
+              "url": "https://www.reddit.com/user/FactFindersPro",
+              "type": "reddit"
             }
           ],
           "links": [
             {
               "displayName": "Email",
-              "url": "mailto:FactFindersPro@gmail.com"
+              "url": "mailto:info@FactFindersPro.com"
             },
             {
               "displayName": "Privacy",
@@ -231,7 +271,7 @@
       "type": "api::page.page",
       "id": 3,
       "attributes": {
-        "pageTitle": null,
+        "pageTitle": "Why FFP",
         "pageSubtitle": null,
         "pageRoute": "/why-ffp",
         "footer": {
@@ -242,6 +282,11 @@
               "type": "twitter"
             },
             {
+              "displayName": "facebook",
+              "url": "https://www.facebook.com/factfinderspro",
+              "type": "facebook"
+            },
+            {
               "displayName": "instagram",
               "url": "https://www.instagram.com/factfinderspro/",
               "type": "instagram"
@@ -250,12 +295,27 @@
               "displayName": "linkedIn",
               "url": "https://www.linkedin.com/company/fact-finders-pro",
               "type": "linkedIn"
+            },
+            {
+              "displayName": "youtube",
+              "url": "https://www.youtube.com/@FactFindersPro",
+              "type": "youtube"
+            },
+            {
+              "displayName": "tiktok",
+              "url": "https://www.tiktok.com/@factfinderspro",
+              "type": "tiktok"
+            },
+            {
+              "displayName": "reddit",
+              "url": "https://www.reddit.com/user/FactFindersPro",
+              "type": "reddit"
             }
           ],
           "links": [
             {
               "displayName": "Email",
-              "url": "mailto:FactFindersPro@gmail.com"
+              "url": "mailto:info@FactFindersPro.com"
             },
             {
               "displayName": "Privacy",
@@ -265,54 +325,125 @@
         },
         "content": [
           {
-            "contentType": "hero",
-            "title": "WHY FFP WILL HAVE ITS OWN CONTENT THAT NEEDS TO BE FILLED IN",
-            "subTitle": null,
-            "content": "",
+            "contentType": "content-only",
+            "title": "Why FFP?",
+            "subTitle": "Join us in the fight against disinformation",
+            "content": "In a world where information is both a powerful tool and a potential weapon, the battle against fake news has never been more crucial. At FFP, we're committed to developing solutions to reshape the digital landscape and empowering individuals, communities, and organizations to identify fake news and disinformation easily. ",
+            "subContent1": "Our **solution** will provide **cutting-edge technology for real-time fact-checking, content verification**, a collaborative approach to identifying and countering disinformation and forensic analysis to expose the sources of disinformation.<p>**At FFP, we aspire to play an active role in creating a more trustworthy digital world.**</p>",
             "backgroundImageUrl": null,
-            "imageUrl1": null,
+            "imageUrl1": "bg-why-ffp.png",
             "imageUrl2": null,
             "imageUrl3": null,
             "buttonName1": "",
             "buttonLinkUrl1": "",
             "youTubeVideoId": "",
-            "socialMedia": []
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
           },
           {
-            "contentType": "",
+            "contentType": "content-only",
+            "title": null,
+            "subTitle": null,
+            "content": "**<span style='font-size: 2em;color:#ffffff; display: block; text-align: left'>The $78 billion challenge!</span>**<br /> Fake news isn't just an insignificant matter; it's a multi-billion dollar industry that preys on manipulation for profit. The cost of fake news to the world exceeds USD 78 billion (according to CESIE). The implications are far-reaching, affecting not only opinions but also the entire societies and people’s wellbeing. </br></br>**<span style='text-weight: bolder; color: white'>At FFP we want to combat disinformation to safeguard the integrity and transparency of information channels and promote informed, responsible decision-making.</span>**",
+            "subContent1": "",
+            "backgroundImageUrl": null,
+            "imageUrl1": "",
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": null,
             "socialMedia": [],
-            "listContent": [
-              {
-                "title": "",
-                "content": ""
-              },
-              {
-                "title": "",
-                "content": ""
-              },
-              {
-                "title": "",
-                "content": ""
-              }
-            ]
+            "showTitle": false,
+            "bgColor": "primary",
+            "textColor": "white",
+            "buttonColor": null,
+            "buttonTextColor": null
           },
           {
-            "contentType": "cards",
+            "contentType": "content-only",
+            "title": null,
+            "subTitle": null,
+            "content": "<h2>The FFP solution</h2><p>Our mission is to develop an innovative AI-based platform that offers real-time fact-checking and state-of-the-art content verification to identify disinformation and unveil its sources.</p>",
+            "subContent1": null,
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
             "socialMedia": [],
-            "cardContents": [
-              {
-                "title": "",
-                "content": "",
-                "buttonName1": "",
-                "buttonLinkUrl1": ""
-              },
-              {
-                "title": "",
-                "content": "",
-                "buttonName1": "",
-                "buttonLinkUrl1": ""
-              }
-            ]
+            "showTitle": true,
+            "bgColor": "white",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": null,
+            "subTitle": null,
+            "content": "<h2>Safeguarding truth and democracy</h2><p>Beyond technology, our mission is rooted in driving positive change in our communities and society. By challenging those who produce fake news to manipulate public opinion, we aim to provide solutions that help safeguard the truth, protect democracy, and create a world where facts matter and deception is revealed.</p>",
+            "subContent1": null,
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "white",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": null,
+            "subTitle": null,
+            "content": "<h2>Join our efforts</h2><p>Are you tired of fake news and want to contribute to a more reliable and transparent digital world? Join our efforts to combat fake news, foster critical thinking and promote media literacy. Our success isn't just about the accuracy of information; it's about the resilience of our societies in the face of disinformation threats. Your support is crucial in turning this vision into a reality.</p>",
+            "subContent1": null,
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "bgColor": "white",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
+          },
+          {
+            "contentType": "content-only",
+            "title": null,
+            "subTitle": null,
+            "content": "<p>Let's make information accurate, transparent, and powerful. Together, we can build a future where the truth prevails.</p>",
+            "subContent1": null,
+            "backgroundImageUrl": null,
+            "imageUrl1": null,
+            "imageUrl2": null,
+            "imageUrl3": null,
+            "buttonName1": null,
+            "buttonLinkUrl1": null,
+            "youTubeVideoId": "",
+            "socialMedia": [],
+            "showTitle": true,
+            "textCenter": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
+            "buttonColor": "secondary",
+            "buttonTextColor": "white"
           }
         ]
       }
@@ -332,6 +463,11 @@
               "type": "twitter"
             },
             {
+              "displayName": "facebook",
+              "url": "https://www.facebook.com/factfinderspro",
+              "type": "facebook"
+            },
+            {
               "displayName": "instagram",
               "url": "https://www.instagram.com/factfinderspro/",
               "type": "instagram"
@@ -340,12 +476,27 @@
               "displayName": "linkedIn",
               "url": "https://www.linkedin.com/company/fact-finders-pro",
               "type": "linkedIn"
+            },
+            {
+              "displayName": "youtube",
+              "url": "https://www.youtube.com/@FactFindersPro",
+              "type": "youtube"
+            },
+            {
+              "displayName": "tiktok",
+              "url": "https://www.tiktok.com/@factfinderspro",
+              "type": "tiktok"
+            },
+            {
+              "displayName": "reddit",
+              "url": "https://www.reddit.com/user/FactFindersPro",
+              "type": "reddit"
             }
           ],
           "links": [
             {
               "displayName": "Email",
-              "url": "mailto:FactFindersPro@gmail.com"
+              "url": "mailto:info@FactFindersPro.com"
             },
             {
               "displayName": "Privacy",
@@ -449,9 +600,6 @@
               },
               {
                 "title": "Chief Marketing Officer (CMO)"
-              },
-              {
-                "title": "Chief Investor Relations Officer (CIRO)"
               }
             ]
           },
@@ -488,6 +636,11 @@
               "type": "twitter"
             },
             {
+              "displayName": "facebook",
+              "url": "https://www.facebook.com/factfinderspro",
+              "type": "facebook"
+            },
+            {
               "displayName": "instagram",
               "url": "https://www.instagram.com/factfinderspro/",
               "type": "instagram"
@@ -496,12 +649,27 @@
               "displayName": "linkedIn",
               "url": "https://www.linkedin.com/company/fact-finders-pro",
               "type": "linkedIn"
+            },
+            {
+              "displayName": "youtube",
+              "url": "https://www.youtube.com/@FactFindersPro",
+              "type": "youtube"
+            },
+            {
+              "displayName": "tiktok",
+              "url": "https://www.tiktok.com/@factfinderspro",
+              "type": "tiktok"
+            },
+            {
+              "displayName": "reddit",
+              "url": "https://www.reddit.com/user/FactFindersPro",
+              "type": "reddit"
             }
           ],
           "links": [
             {
               "displayName": "Email",
-              "url": "mailto:FactFindersPro@gmail.com"
+              "url": "mailto:info@FactFindersPro.com"
             },
             {
               "displayName": "Privacy",
@@ -512,7 +680,7 @@
         "content": [
           {
             "contentType": "content-only",
-            "title": "Join Us in the Fight Against Disinformation!",
+            "title": "Join Us  in the Fight Against Disinformation!",
             "subTitle": null,
             "content": "At Fact Finders Pro, we're on a mission to tackle one of the most pressing challenges of our time: disinformation. In an era where the spread of false information threatens our democracy, public safety, and informed decision-making we're developing a game-changing solution and we need your help.",
             "subContent1": null,
@@ -555,7 +723,7 @@
             "contentType": "content-only",
             "title": "How are we planning to utilize the fund?",
             "subTitle": null,
-            "content": "<img src='/images/crowfunding-graph.png' alt='crowfunding graph' />",
+            "content": "<img src='/images/crowfunding-graph.png' style='width:800px;' alt='crowfunding graph' />",
             "subContent1": "image here",
             "backgroundImageUrl": null,
             "imageUrl1": null,
@@ -607,8 +775,8 @@
             "contentType": "content-only",
             "title": null,
             "subTitle": null,
-            "content": "Join us in the fight against disinformation today. Together, we can make a real impact and create a more informed, educated, and resilient society.",
-            "subContent1": "<h2 style='color:#088395; text-align:center'>Thank you for your support!</h2>",
+            "content": "<h4 style='text-align:center'>Join us in the fight against disinformation today. Together, we can make a real impact and create a more informed, educated, and resilient society.</h4> <p /><h2 style='color:#088395; text-align:center'>Thank you for your support!</h2>",
+            "subContent1": "",
             "backgroundImageUrl": null,
             "imageUrl1": null,
             "imageUrl2": null,
@@ -641,6 +809,11 @@
               "type": "twitter"
             },
             {
+              "displayName": "facebook",
+              "url": "https://www.facebook.com/factfinderspro",
+              "type": "facebook"
+            },
+            {
               "displayName": "instagram",
               "url": "https://www.instagram.com/factfinderspro/",
               "type": "instagram"
@@ -649,12 +822,27 @@
               "displayName": "linkedIn",
               "url": "https://www.linkedin.com/company/fact-finders-pro",
               "type": "linkedIn"
+            },
+            {
+              "displayName": "youtube",
+              "url": "https://www.youtube.com/@FactFindersPro",
+              "type": "youtube"
+            },
+            {
+              "displayName": "tiktok",
+              "url": "https://www.tiktok.com/@factfinderspro",
+              "type": "tiktok"
+            },
+            {
+              "displayName": "reddit",
+              "url": "https://www.reddit.com/user/FactFindersPro",
+              "type": "reddit"
             }
           ],
           "links": [
             {
               "displayName": "Email",
-              "url": "mailto:FactFindersPro@gmail.com"
+              "url": "mailto:info@FactFindersPro.com"
             },
             {
               "displayName": "Privacy",
@@ -807,8 +995,8 @@
             "contentType": "content-only",
             "title": null,
             "subTitle": null,
-            "content": "<h2>7. Contact Us</h2><p>If you have questions, concerns, or requests related to your privacy or this Privacy Policy, please contact us at:</p>",
-            "subContent1": "Email: FactFindersPro@gmail.com",
+            "content": "<h2>7. Contact Us</h2><p>If you have questions, concerns, or requests related to your privacy or this Privacy Policy, please contact us at:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+            "subContent1": "Email: <a class='activelink' href='mailto:info@FactFindersPro.com'>info@FactFindersPro.com</a>",
             "backgroundImageUrl": null,
             "imageUrl1": null,
             "imageUrl2": null,
@@ -828,7 +1016,7 @@
             "title": null,
             "subTitle": null,
             "content": "Please note that this Privacy Policy applies only to our website and services and does not cover any third-party websites or services you may access through links on our website. We recommend reviewing the privacy policies of these third parties for their terms and practices.",
-            "subContent1": "Thank you for choosing FactsFindersPro. We are committed to protecting your privacy while helping you identify and combat fake news.",
+            "subContent1": "<h3 style='color:#088395;'>Thank you for choosing FactsFindersPro.</h3> <h4>We are committed to protecting your privacy while helping you identify and combat fake news.</h4>",
             "backgroundImageUrl": null,
             "imageUrl1": null,
             "imageUrl2": null,
@@ -838,8 +1026,9 @@
             "youTubeVideoId": "",
             "socialMedia": [],
             "showTitle": true,
-            "bgColor": "primary",
-            "textColor": "white",
+            "textCenter": true,
+            "bgColor": "neutral",
+            "textColor": "primary",
             "buttonColor": "secondary",
             "buttonTextColor": "white"
           }
